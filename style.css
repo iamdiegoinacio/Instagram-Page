@@ -105,6 +105,13 @@ body{
     padding: 1.3em 0;
 }
 
+.download{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
 
 
 
