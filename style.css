@@ -62,4 +62,16 @@ body{
     border: 1px solid lightgray;
 }
 
+.group:nth-child(1){
+    min-height: 19rem;
+}
+
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 
