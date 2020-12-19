@@ -58,7 +58,6 @@ body{
     flex-direction: column;
     background-color: #fff;
     width: 300px;
-    margin-left: 60px;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
 }
@@ -114,7 +113,7 @@ body{
 }
 
 .app-download{
-    height: 3rem;
+    height: 2.8rem;
     width: 10rem;
     background-size: cover;
 }
@@ -125,6 +124,7 @@ body{
 
 .app-download:nth-child(2){
     background-image: url(./assets/googleplay-logo.png);
+    height: 58px;
 }
 
 
