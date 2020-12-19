@@ -80,6 +80,8 @@ body{
     color: #fff;
     padding: 8px;
     border-radius: 4px;
+    margin-top: 10px;
+}
 
 .instagram-logout{
     color: #0095f6;
