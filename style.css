@@ -128,4 +128,22 @@ body{
 }
 
 
+/* media queries */
+
+
+@media(max-width: 650px){
+    .instagram-iphone{
+        display: none;
+    }
+
+    .instagram-continue{
+        width: 100%;
+    }
+
+    .group{
+        border: 1px solid transparent;
+    }
+}
+
+
 
