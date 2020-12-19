@@ -26,13 +26,27 @@ body{
     height: 100vh;
 }
 
-.instagram-phone{
+.instagram-phone-div{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
 }
 
-.instagram-phone img{
-    height: 50rem
+.instagram-iphone{
+    height: 50rem;
+    
+}
+
+.instagram-logo, .profile-photo{
+    height: 10rem;
+}
+
+.instagram-continue{
+    display: flex;
+    align-items: center; /*Horizontal*/
+    justify-content: space-around; /*Vertical*/
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
 }
