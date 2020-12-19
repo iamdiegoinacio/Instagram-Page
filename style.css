@@ -96,6 +96,15 @@ body{
     color: #0095f6;
 }
 
+.get-the-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3em 0;
+}
+
 
 
 
